@@ -1,0 +1,4 @@
+.pyenv
+.vscode
+__pycache__
+storage.db
